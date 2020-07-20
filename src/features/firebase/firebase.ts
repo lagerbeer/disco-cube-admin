@@ -6,13 +6,13 @@ import "firebase/database";
 import { FirebaseCollections, dataConverter } from "../../sharedTypes";
 
 const config = {
-  apiKey: "AIzaSyCNZOxJQX8x5-z2iWyMLCkKZ6sQjkaGZR8",
-  authDomain: "disco-cube.firebaseapp.com",
-  databaseURL: "https://disco-cube.firebaseio.com",
-  projectId: "disco-cube",
-  storageBucket: "disco-cube.appspot.com",
-  messagingSenderId: "239577858848",
-  appId: "1:239577858848:web:f84d626c0604a452698d45",
+  apiKey: "AIzaSyAZwVd3_hHJS9CTMrfO5Jn4PVcBcZxrcT4",
+  authDomain: "my-cube-3039e.firebaseio.com",
+  databaseURL: "https://my-cube-3039e.firebaseio.com",
+  projectId: "my-cube-3039e",
+  storageBucket: "my-cube-3039e.appspot.com",
+  messagingSenderId: "270124832795",
+  appId: "1:270124832795:android:5b4d8df49ef4421a92c0be",
   measurementId: "G-D9SX9GEWJY",
 };
 
